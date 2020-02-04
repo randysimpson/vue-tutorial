@@ -27,6 +27,10 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <h3>Tutorial</h3>
+    <ul>
+      <li><a href="https://www.taniarascia.com/getting-started-with-vue/" target="_blank" rel="noopener">Tutorial</a></li>
+    </ul>
   </div>
 </template>
 
